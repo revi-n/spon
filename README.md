@@ -1,6 +1,6 @@
 # SPON - Node.js project with a pre-configured Webpack template
 
-## -Tried to use all latest module's 
+## Tried to use all latest module's 
 
 ## Requirements
 If you do not intend to work with the template source code (and that means you will not be compiling it or running the Webpack dev server), you do not need to install anything. You can simply navigate to the dist folder and start editing the files.
