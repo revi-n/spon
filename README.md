@@ -21,8 +21,8 @@ To keep code repetition to a minimum, we've used Handlebars.js as the templating
 
 
 ## Template Key Features
-* used letest webpack.(template will be always up to date)
-* added custon css and js example
+* used letest webpack module.
+* added custon css and js example.
 * imported bootstrap as sample.
 
 
